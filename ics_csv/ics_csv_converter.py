@@ -3,6 +3,8 @@ import os
 import datetime
 import sys
 
+__author__ = "addmaths07"
+ 
 CSV_HEADERS = ['Subject', 'Start Date', 'Start Time',
 		'End Date', 'End Time', 'All Day Event',
 		'Description', 'Location', 'Private']
